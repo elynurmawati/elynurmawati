@@ -1,6 +1,5 @@
 # Hi there, I'm Ely Nurmawati  👋
 ## About me:
-An analytical strategist with 2+ years of experience. Familiar with management skills, detail-oriented, and also have the ability to build strong relationships as a business representative.
 
 - 🔭 I’m currently working as PIC CRM
 - 🌱 I’m currently learning Python, Power BI, SQL, and Excel
